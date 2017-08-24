@@ -9,16 +9,16 @@
 **********************************************************************************/
 
 .timer-area {
-  width: 85%;
+  width: auto;
   background: #b7d2ff;
-  text-align: center;
+  text-align: left;
   padding-top: 0.5em;
   margin-bottom: 0.5em;
   border: 1px solid black ;
 }
 .timer-area h1 {
   color: black;
-  font-size: 1em;
+  font-size: 1.2em;
   font-weight: bold;
   line-height: 1em;
 }
