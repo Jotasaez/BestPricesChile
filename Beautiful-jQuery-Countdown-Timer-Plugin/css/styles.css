@@ -36,7 +36,7 @@ ul#countdown li span {
   font-weight: bold;
   color: red ;
   height: 80px;
-  line-height: 1em;
+  line-height: 2em;
   position: relative;
 }
 ul#countdown li span::before {
