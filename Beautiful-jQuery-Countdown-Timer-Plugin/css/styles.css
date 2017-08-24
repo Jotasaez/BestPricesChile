@@ -36,14 +36,14 @@ ul#countdown li span {
   color: red ;
   height: 80px;
   line-height: 1.5em;
-  position: absolute;
+  position: relative;
 }
 ul#countdown li span::before {
   content: '';
   width: 100%;
   height: 1px;
   border-top: 1px solid white;
-  position: absolute;
+  position: relative;
   top: 21px;
 }
 ul#countdown li p.timeRefDays,
